@@ -18,3 +18,7 @@ This function is used to approximate the value of pi using Monte Carlo simulatio
 
 ## main.m, reverseImageLoop.m, reverseImageWithoutLoop.m
 Aim of this example is to reverse some part of the image 'birds2.jpg' both in x and y axes. The part to be reversed is indicated in 'temp.jpg'. reverseImageLoop and reverseImageWithoutLoop are used to reverse the image. As you can understand from their names, one of them reverses the image with loop and the other one does the same thing without using loop.
+
+## cubicSplineDrawing.m
+A curve drawing program is implemented in Matlab, and natural cubic splines are used to draw smooth curves.<br/>
+It takes the number of points, and the points as inputs. To give the points as inputs, you'll click on the screen that will appear once you enter the number of points.

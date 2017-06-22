@@ -25,3 +25,8 @@ It takes the number of points, and the points as inputs. To give the points as i
 
 ## mygauss.m
 This function is used to find the solution x of the system A*x=b by using Gaussian Elimination Method with Scaled Column Pivoting.
+
+## How to Use It?
+* Clone the repo.
+* Open the file you want in [Matlab](https://www.mathworks.com/product/matlab.html) or [Octave](https://www.gnu.org/software/octave/).
+* Run it!

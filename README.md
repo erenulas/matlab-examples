@@ -24,4 +24,4 @@ A curve drawing program is implemented in Matlab, and natural cubic splines are 
 It takes the number of points, and the points as inputs. To give the points as inputs, you'll click on the screen that will appear once you enter the number of points.
 
 ## mygauss.m
-This function is used to find the solution x of the system A*x=b by using Gaussian Elimination Method with Sccaled Column Pivoting.
+This function is used to find the solution x of the system A*x=b by using Gaussian Elimination Method with Scaled Column Pivoting.

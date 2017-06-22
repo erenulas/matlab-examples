@@ -22,3 +22,6 @@ Aim of this example is to reverse some part of the image 'birds2.jpg' both in x 
 ## cubicSplineDrawing.m
 A curve drawing program is implemented in Matlab, and natural cubic splines are used to draw smooth curves.<br/>
 It takes the number of points, and the points as inputs. To give the points as inputs, you'll click on the screen that will appear once you enter the number of points.
+
+## mygauss.m
+This function is used to find the solution x of the system A*x=b by using Gaussian Elimination Method with Sccaled Column Pivoting.
